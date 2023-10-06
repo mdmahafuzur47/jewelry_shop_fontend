@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.mycontainer {
+  @apply max-w-[1200px] mx-auto ;
+}
+
+* {
+  font-family: "Lato", sans-serif;
+}

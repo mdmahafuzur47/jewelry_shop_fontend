@@ -1,0 +1,9 @@
+
+.hero-bacground{
+    background: url("../../assets/girls/hero5.webp") no-repeat center;
+    background-size: cover;
+}
+.hero-ads-img{
+    background: url("../../assets/girls/ads.webp") no-repeat center;
+    background-size: cover;
+}

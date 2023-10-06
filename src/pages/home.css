@@ -1,0 +1,5 @@
+.home-feature-img{
+    background: url("../assets/features/f1.webp") no-repeat center;
+    background-size: cover;
+    border-radius: 3px;
+}
